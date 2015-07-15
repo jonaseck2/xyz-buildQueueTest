@@ -1,0 +1,12 @@
+{
+  "name": "buildQueuTest",
+  "version": "0.0.0",
+  "description": "Adds a build queue job",
+  "main": "buildQueueTest.js",
+  "scripts": {
+    "test": "node src"
+  },
+  "dependencies": {
+    "mongodb": "^1.4.33"
+  }
+}
